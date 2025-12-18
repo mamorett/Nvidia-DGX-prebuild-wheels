@@ -13,6 +13,6 @@ The following prebuilt wheels are available in this repository:
 | **onnxruntime-gpu** | 1.24.0 | cp310 | linux_aarch64 | `onnxruntime_gpu-1.24.0-cp310-cp310-linux_aarch64.whl` |
 | **onnxruntime-gpu** | 1.24.0 | cp312 | linux_aarch64 | `onnxruntime_gpu-1.24.0-cp312-cp312-linux_aarch64.whl` |
 | **sageattention** | 2.2.0 | cp312 | linux_aarch64 | `sageattention-2.2.0-cp312-cp312-linux_aarch64.whl` |
-| **xformers** | 0.0.33.post2 | cp39-abi3 | linux_aarch64 | `xformers-0.0.33.post2-cp39-abi3-linux_aarch64.whl` |
+| **xformers** | 0.0.33.post2 | cp312 | linux_aarch64 | `xformers-0.0.33.post2-cp39-abi3-linux_aarch64.whl` |
 | **decord** | 0.6.0 | cp312 | linux_aarch64 | `decord-0.6.0-cp312-cp312-linux_aarch64.whl` |
 | **torchcodec** | 0.10.0a0 | cp312 | linux_aarch64 | `torchcodec-0.10.0a0-cp312-cp312-linux_aarch64.whl` |
