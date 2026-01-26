@@ -18,4 +18,5 @@ The following prebuilt wheels are available in this repository:
 | **sageattention** | 2.2.0 | cp312 | linux_aarch64 | `sageattention-2.2.0-cp312-cp312-linux_aarch64.whl` | 1.2 |
 | **sageattn3** | 1.0.0 | cp312 | linux_aarch64 | `sageattn3-1.0.0-cp312-cp312-linux_aarch64.whl` | 1.2 |
 | **comfy_kitchen** | 0.2.5 | cp312 | linux_aarch64 | `comfy_kitchen-0.2.5-cp312-abi3-linux_aarch64.whl` | 1.2 |
+| **nunchaku** | 1.2.1 | cp312 | linux_aarch64 | `nunchaku-1.2.1+cu13.0torch2.9-cp312-cp312-linux_aarch64.whl` | 1.3 |
 
