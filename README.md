@@ -19,11 +19,7 @@ The following prebuilt wheels are available in this repository:
 | **sageattn3** | 1.0.0 | cp312 | linux_aarch64 | `sageattn3-1.0.0-cp312-cp312-linux_aarch64.whl` | 1.2 |
 | **comfy_kitchen** | 0.2.5 | cp312 | linux_aarch64 | `comfy_kitchen-0.2.5-cp312-abi3-linux_aarch64.whl` | 1.2 |
 | **nunchaku** | 1.2.1 | cp312 | linux_aarch64 | `nunchaku-1.2.1+cu13.0torch2.9-cp312-cp312-linux_aarch64.whl` | 1.3 |
-| **comfy_aimdo** | 0.0.0 | py3 | none | `comfy_aimdo-0.0.0-py3-none-any.whl` | 1.4 |
-| **comfy_aimdo** | 0.1.7 | py3 | none | `comfy_aimdo-0.1.7-py3-none-any.whl` | 1.4 |
-| **comfy_aimdo** | 0.2.12 | py3 | none | `comfy_aimdo-0.2.12-py3-none-any.whl` | 1.4 |
-| **comfy_aimdo** | 0.2.4.dev4 | py3 | none | `comfy_aimdo-0.2.4.dev4-py3-none-any.whl` | 1.4 |
 | **comfy_kitchen** | 0.2.8 | cp312 | linux_aarch64 | `comfy_kitchen-0.2.8-cp312-abi3-linux_aarch64.whl` | 1.4 |
 | **torchcodec** | 0.10.0a0 | cp313 | linux_aarch64 | `torchcodec-0.10.0a0-cp313-cp313-linux_aarch64.whl` | 1.4 |
-
+| **comfy_aimdo** | 0.3.1.dev2 | cp39-abi3 | linux_aarch64 | `comfy_aimdo-0.3.1.dev2-cp39-abi3-linux_aarch64.whl` | 1.5 |
 
